@@ -1,37 +1,52 @@
-## Welcome to GitHub Pages
+                                       2008020061                                  尹浩宇
 
-You can use the [editor on GitHub](https://github.com/fezmy/yinhaoyu.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 个人简介
 
-### Markdown
+姓名 尹浩宇
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+性别 男
 
-```markdown
-Syntax highlighted code block
+出生年月 2002年9月
 
-# Header 1
-## Header 2
-### Header 3
+籍贯 湖南省湘潭市雨湖区
 
-- Bulleted
-- List
+专业 商务英语
 
-1. Numbered
-2. List
+政治面貌 共青团员
 
-**Bold** and _Italic_ and `Code` text
+电子邮件 1004064451@qq.com
 
-[Link](url) and ![Image](src)
-```
+### 技能总结
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+外语水平 四级
 
-### Jekyll Themes
+计算机水平 二级
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/fezmy/yinhaoyu.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+吉他 入门
 
-### Support or Contact
+### 兴趣爱好
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+篮球、羽毛球、台球、乒乓球......
+
+### 教育背景
+
+大学阶段
+
+### 主修课程
+
+综合商务英语 
+
+英语视听说
+
+英语演讲
+
+### 获奖情况
+
+小学作文大赛一等奖
+
+初中物理大赛二等奖
+
+### 自我评价
+
+在学习上，我有很强的进取心。首先，我的学习能力比较强，能较快地接受新知识，这种能力在大学四年得到了很好的锻炼。大学的授课一节课往往会涉及很多知识，只靠课堂上的听讲是远远不够的，这就要求我们在课下要学会自己钻研，练习巩固课堂上所学的知识。希望以后我能更上一层楼。
